@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-certmaster-dev-162035-authRole",
+            "UnauthRoleArn": "arn:aws:iam::021981237285:role/amplify-certmaster-dev-162035-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::021981237285:role/amplify-certmaster-dev-162035-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-certmaster-dev-162035-deployment",
+            "UnauthRoleName": "amplify-certmaster-dev-162035-unauthRole",
+            "StackName": "amplify-certmaster-dev-162035",
+            "StackId": "arn:aws:cloudformation:us-east-2:021981237285:stack/amplify-certmaster-dev-162035/1f817360-d759-11ea-b016-066f8b7a8772",
+            "AmplifyAppId": "d25e8rrkiu110r"
+        },
+        "categories": {
+            "auth": {
+                "certmaster78564a65": {}
+            }
+        }
+    }
+}

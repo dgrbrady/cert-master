@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"certmaster78564a65": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
